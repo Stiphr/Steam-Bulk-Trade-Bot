@@ -1,3 +1,6 @@
+# Not Working Anymore
+
+
 # Steam Bulk Trade Bot
 This is a simple Steam trade bot script written in Node.js using the steam-user, steamcommunity, steam-totp, and steam-tradeoffer-manager modules. It logs in to multiple Steam accounts provided in a text file and sends a trade offer containing all the items in the account's inventory to a predefined trade link.
 
